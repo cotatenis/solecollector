@@ -1,0 +1,1 @@
+from solecollector.spiders.adidas import AdidasSpider
